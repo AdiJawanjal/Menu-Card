@@ -1,0 +1,79 @@
+<html>
+<body bgcolor="orange" >
+<table align="center" border="2" width="100%">
+<tr>
+<td width="50%" rowspan="3"><img src="Programs/Menu/img/shop2.jpg" width="100%" ></td> 
+<td>
+<table align="center" border="2">
+<caption><font color="black" size="20">Menu</font></caption>
+<tr>
+<td><font size="20" color="green">Pizza</font></td>
+<td><font size="20" color="Red">130/-</font></td>
+<td rowspan="3"><img src="Programs/Menu/img/pizza.jpg" width="100%"></td>
+</font>
+</tr>
+<tr>
+<td><font size="20" color="green">cheeze Pizza</font></td>
+<td><font size="20" color="Red">200/-</font></td>
+</tr>
+<tr>
+<td><font size="20" color="green">corn Pizza</font></td>
+<td><font size="20" color="Red">150/-</font></td>
+</tr>
+
+</table>
+</td>
+</tr>
+<tr>
+<td>
+
+<table align="center" border="2">
+<tr>
+
+<td><font size="20" color="green">Veg Biryani</font></td>
+<td><font size="20" color="Red">80/-</font></td>
+<td rowspan="3"><img src="Programs/Menu/img/biryani.jpg" width="100%" ></td>
+</font>
+</tr>
+<tr>
+<td><font size="20" color="green">Chicken Biryani</font></td>
+<td><font size="20" color="Red">120/-</font></td>
+</tr>
+<tr>
+<td><font size="20" color="green">Mutton Biryani</font></td>
+<td><font size="20" color="Red">170/-</font></td>
+</tr>
+
+
+
+</td>
+</tr>
+</table>
+<tr>
+<td>
+<table align="center" border="2">
+<tr>
+
+<td><font size="20" color="green">BUttorscotch</font></td>
+<td><font size="20" color="Red">50/-</font></td>
+<td rowspan="3"><img src="Programs/Menu/img/ice cream.jpg" width="100%" ></td>
+</font>
+</tr>
+<tr>
+<td><font size="20" color="green">Vanilla</font></td>
+<td><font size="20" color="Red">50/-</font></td>
+</tr>
+<tr>
+<td><font size="20" color="green">Pista</font></td>
+<td><font size="20" color="Red">50/-</font></td>
+</tr>
+
+</table>
+
+</td>
+</tr>
+
+</body>
+
+
+</html>
